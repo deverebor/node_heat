@@ -1,1 +1,1 @@
-web: node /node_heat/src/app.ts
+web: node src/app.ts
