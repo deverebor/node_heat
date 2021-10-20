@@ -1,0 +1,1 @@
+web: node /node_heat/src/app.ts
